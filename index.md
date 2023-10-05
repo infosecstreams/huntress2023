@@ -20,10 +20,17 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 - [✅ HumanTwo](./malware/HumanTwo/README.md)
 - [✅ Zerion](./malware/Zerion/README.md)
 
+## Miscellaneous
+
+I-Wont-Let-You-Down
+
+- [✅ I Wont Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
+
 ## Warmups
 
 - [✅ BaseFFFF-1](./warmups/BaseFFFF-1/README.md)
 - [✅ Book By Its Cover](./warmups/Book-By-Its-Cover/README.md)
+- [✅ CaesarMirror](./warmups/CaesarMirror/README.md)
 - [✅ Notepad](./warmups/Notepad/README.md)
 - [✅ Query Code](./warmups/Query-Code/README.md)
 - [✅ Read The Rules](./warmups/Read-The-Rules/README.md)
