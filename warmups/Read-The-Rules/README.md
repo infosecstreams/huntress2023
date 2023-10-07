@@ -1,11 +1,5 @@
 # ✅ WARMUPS - Read The Rules
 
-| Key | Value |
-| --- | --- |
-| ID | 14 |
-| Solves | 1609 |
-| Value | 50 |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,7 +8,9 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Description
 
-Author: @JohnHammond#6971Please follow the rules for this CTF!   Connect here: Read The Rules
+Author: @JohnHammond#6971
+
+Please follow the rules for this CTF!   Connect here: Read The Rules
 
 ## Writeup
 

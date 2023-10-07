@@ -1,11 +1,5 @@
 # ✅ WARMUPS - Notepad
 
-| Key    | Value |
-| ------ | ----- |
-| ID     | 31    |
-| Solves | 1767  |
-| Value  | 50    |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,7 +8,7 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 Files:
 
-- [notepad](https://huntress.ctf.games/files/d753e9f1fe7f8d22715c877a579f982b/notepad?token=eyJ1c2VyX2lkIjozMTgyLCJ0ZWFtX2lkIjo0MDcsImZpbGVfaWQiOjIxfQ.ZR0T-w.3zvnWABjXkyfFGyU55J-kRh8pWQ)
+- [notepad](./notepad)
 
 ## Description
 

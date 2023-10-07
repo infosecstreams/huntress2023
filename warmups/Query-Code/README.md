@@ -1,11 +1,5 @@
 # ✅ WARMUPS - Query Code
 
-| Key    | Value |
-| ------ | ----- |
-| ID     | 17    |
-| Solves | 1591  |
-| Value  | 50    |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,11 +8,13 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 Files:
 
-- [query_code](https://huntress.ctf.games/files/fc730c1eaef9fc6b8187c3210d30748f/query_code?token=eyJ1c2VyX2lkIjozMTgyLCJ0ZWFtX2lkIjo0MDcsImZpbGVfaWQiOjEyfQ.ZR0T-g.GuTpqdcSxkaaUgxnHikb-j0nqXY)
+- [query_code](./query_code)
 
 ## Description
 
-Author: @JohnHammondWhat's this? Download the file(s) below.
+Author: @JohnHammond
+
+What's this? Download the file(s) below.
 
 ## Writeup
 

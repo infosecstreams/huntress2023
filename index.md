@@ -19,13 +19,12 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 
 - [✅ Hot Off The Press](./malware/Hot-Off-The-Press/README.md)
 - [✅ HumanTwo](./malware/HumanTwo/README.md)
+- [✅ PHP-Stager](./malware/PHP-Stager/README.md)
 - [✅ Zerion](./malware/Zerion/README.md)
 
 ## Miscellaneous
 
-I-Wont-Let-You-Down
-
-- [✅ I Wont Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
+- [✅ I Won't Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
 
 ## Warmups
 

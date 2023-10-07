@@ -1,11 +1,5 @@
 # ✅ WARMUPS - Book By Its Cover
 
-| Key    | Value |
-| ------ | ----- |
-| ID     | 23    |
-| Solves | 1216  |
-| Value  | 50    |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,11 +8,13 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 Files:
 
-- [book.rar](https://huntress.ctf.games/files/9c01905f2c4b6c78c6982fc45b0f3f32/book.rar?token=eyJ1c2VyX2lkIjozMTgyLCJ0ZWFtX2lkIjo0MDcsImZpbGVfaWQiOjE3fQ.ZR0T-g.aUaBgFAZbLpIJNC3hWJzEI42ggY)
+- [book.rar](./book.rar)
 
 ## Description
 
-Author: @JohnHammondThey say you aren't supposed to judge a book by its cover, but this is one of my favorites! Download the file below.
+Author: @JohnHammond
+
+They say you aren't supposed to judge a book by its cover, but this is one of my favorites! Download the file below.
 
 ## Writeup
 

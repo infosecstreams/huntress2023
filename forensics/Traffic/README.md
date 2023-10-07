@@ -1,11 +1,5 @@
 # ✅ FORENSICS - Traffic
 
-| Key    | Value |
-| ------ | ----- |
-| ID     | 8     |
-| Solves | 0     |
-| Value  | 500   |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,11 +8,13 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 Files:
 
-- [traffic.7z](https://huntress.ctf.games/files/efd8115eedbda53848676208e38e6afc/traffic.7z?token=eyJ1c2VyX2lkIjozMTgyLCJ0ZWFtX2lkIjo0MDcsImZpbGVfaWQiOjd9.ZR1iEA.mAP4vLQHG_wQfAMj1N5zdmzf7ZQ)
+- [traffic.7z](./traffic.7z)
 
 ## Description
 
-Author: @JohnHammondWe saw some communication to a sketchy site... here's an export of the network traffic. Can you track it down? Some tools like `rita` or `zeek` might help dig through all of this data! Download the file below.
+Author: @JohnHammond
+
+We saw some communication to a sketchy site... here's an export of the network traffic. Can you track it down? Some tools like `rita` or `zeek` might help dig through all of this data! Download the file below.
 
 ## Writeup
 

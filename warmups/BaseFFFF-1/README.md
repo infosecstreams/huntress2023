@@ -1,11 +1,5 @@
 # ✅ WARMUPS - BaseFFFF+1
 
-| Key    | Value |
-| ------ | ----- |
-| ID     | 22    |
-| Solves | 0     |
-| Value  | 500   |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,11 +8,13 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 Files:
 
-- [baseffff1](https://huntress.ctf.games/files/4f5b4be19374471dc575e58e9c09637b/baseffff1?token=eyJ1c2VyX2lkIjozMTgyLCJ0ZWFtX2lkIjo0MDcsImZpbGVfaWQiOjQ1fQ.ZR1iEA.ambopO2KtlDYwT53OYAbtPuM3bA)
+- [baseffff1](./baseffff1)
 
 ## Description
 
-Author: @JohnHammondMaybe you already know about base64, but what if we took it up a notch? Download the files below.
+Author: @JohnHammond
+
+Maybe you already know about base64, but what if we took it up a notch? Download the files below.
 
 ## Writeup
 

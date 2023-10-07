@@ -1,11 +1,5 @@
 # ✅ MISCELLANEOUS - I Wont Let You Down
 
-| Key | Value |
-| --- | --- |
-| ID | 44 |
-| Solves | 301 |
-| Value | 50 |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,8 +8,10 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Description
 
-Author: @proslasherOK Go take a look at this IP:   Connect here: http://155.138.162.158
-# DO NOT USE BURP SUITE, OR YOU WILL BE DISQUALIFIED.
+Author: @proslasher
+
+OK Go take a look at this IP:   Connect here: http://155.138.162.158
+\# DO NOT USE BURP SUITE, OR YOU WILL BE DISQUALIFIED.
 
 ## Writeup
 

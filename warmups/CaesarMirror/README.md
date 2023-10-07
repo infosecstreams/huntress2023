@@ -1,11 +1,5 @@
 # ✅ WARMUPS - CaesarMirror
 
-| Key | Value |
-| --- | --- |
-| ID | 24 |
-| Solves | 474 |
-| Value | 50 |
-
 Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 ## Tags
@@ -14,11 +8,13 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 Files:
 
-- [caesarmirror.txt](https://huntress.ctf.games/files/869c3f4a516cfbfcc05934cd99de357e/caesarmirror.txt?token=eyJ1c2VyX2lkIjozMTgyLCJ0ZWFtX2lkIjo0MDcsImZpbGVfaWQiOjM4fQ.ZR7Qxw.3sMlC6-sGFRreHr-3eT2soRS7eY)
+- [caesarmirror.txt](./caesarmirror.txt)
 
 ## Description
 
-Author: @JohnHammondCaesar caesar, on the wall, who is the fairest of them all?  Perhaps a clever ROT13?  NOTE: this flag does not follow the usual MD5 hash standard flag format. It is still wrapped with the code>flag{}` prefix and suffix.  Download the file(s) below.
+Author: @JohnHammond
+
+Caesar caesar, on the wall, who is the fairest of them all?  Perhaps a clever ROT13?  NOTE: this flag does not follow the usual MD5 hash standard flag format. It is still wrapped with the code>flag{}` prefix and suffix.  Download the file(s) below.
 
 ## Writeup
 
