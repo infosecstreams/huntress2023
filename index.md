@@ -9,6 +9,7 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 ## Forensics
 
 - [✅ Traffic](./forensics/Traffic/README.md)
+- [✅ Backdoored Splunk](./forensics/Backdoored-Splunk/README.md)
 
 ## Huntress
 
@@ -31,6 +32,8 @@ I-Wont-Let-You-Down
 - [✅ BaseFFFF-1](./warmups/BaseFFFF-1/README.md)
 - [✅ Book By Its Cover](./warmups/Book-By-Its-Cover/README.md)
 - [✅ CaesarMirror](./warmups/CaesarMirror/README.md)
+- [✅ Dialtone](./warmups/Dialtone/README.md)
+- [✅ Layered Security](./warmups/Layered-Security/README.md)
 - [✅ Notepad](./warmups/Notepad/README.md)
 - [✅ Query Code](./warmups/Query-Code/README.md)
 - [✅ Read The Rules](./warmups/Read-The-Rules/README.md)
