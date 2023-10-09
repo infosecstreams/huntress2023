@@ -16,6 +16,10 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 
 - [✅ More Challenges Tomorrow](./huntress/More-Challenges-Tomorrow/README.md)
 
+## OSINT
+
+- [✅ Where am I](./osint/Where-am-I/README.md)
+
 ## Malware
 
 - [✅ Hot Off The Press](./malware/Hot-Off-The-Press/README.md)
@@ -32,6 +36,7 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 - [✅ BaseFFFF-1](./warmups/BaseFFFF-1/README.md)
 - [✅ Book By Its Cover](./warmups/Book-By-Its-Cover/README.md)
 - [✅ CaesarMirror](./warmups/CaesarMirror/README.md)
+- [✅ Chicken Wings](./warmups/Chicken-Wings/README.md)
 - [✅ Comprezz](./warmups/Comprezz/README.md)
 - [✅ Dialtone](./warmups/Dialtone/README.md)
 - [✅ Layered Security](./warmups/Layered-Security/README.md)
