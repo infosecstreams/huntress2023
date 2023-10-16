@@ -12,6 +12,7 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 - [✅ Dumpster Fire](./forensics/Dumpster-Fire/README.md)
 - [✅ Opposable Thumbs](./forensics/Opposable-Thumbs/thumbcache_256.db)
 - [✅ Traffic](./forensics/Traffic/README.md)
+- [✅ Tragedy Redux](./forensics/Tragedy-Redux/README.md)
 - [✅ Wimble](./forensics/Wimble/README.md)
 
 ## Malware
@@ -27,6 +28,7 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 ## Miscellaneous
 
 - [✅ I Won't Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
+- [✅ Rock Paper Psychic](./miscellaneous/Rock-Paper-Psychic/README.md)
 
 ## OSINT
 
