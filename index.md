@@ -10,6 +10,7 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 
 - [✅ Backdoored Splunk](./forensics/Backdoored-Splunk/README.md)
 - [✅ Dumpster Fire](./forensics/Dumpster-Fire/README.md)
+- [✅ Opposable Thumbs](./forensics/Opposable-Thumbs/thumbcache_256.db)
 - [✅ Traffic](./forensics/Traffic/README.md)
 - [✅ Wimble](./forensics/Wimble/README.md)
 
@@ -32,6 +33,10 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 - [✅ Operation Not Found](./osint/Operation-Not-Found/README.md)
 - [✅ Under The Bridge](./osint/Under-The-Bridge/README.md)
 - [✅ Where am I](./osint/Where-am-I/README.md)
+
+## Steganography
+
+- [✅ Land-Before-Time](./steganography/Land-Before-Time/dinosaurs1.png)
 
 ## Warmups
 
