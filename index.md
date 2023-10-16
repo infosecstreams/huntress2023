@@ -10,7 +10,8 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 
 - [✅ Backdoored Splunk](./forensics/Backdoored-Splunk/README.md)
 - [✅ Dumpster Fire](./forensics/Dumpster-Fire/README.md)
-- [✅ Opposable Thumbs](./forensics/Opposable-Thumbs/thumbcache_256.db)
+- [✅ Opposable Thumbs](./forensics/Opposable-Thumbs/README.md)
+- [✅ Rogue Inbox](./forensics/Rogue-Inbox/README.md)
 - [✅ Traffic](./forensics/Traffic/README.md)
 - [✅ Tragedy Redux](./forensics/Tragedy-Redux/README.md)
 - [✅ Wimble](./forensics/Wimble/README.md)
@@ -29,6 +30,11 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 
 - [✅ I Won't Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
 - [✅ Rock Paper Psychic](./miscellaneous/Rock-Paper-Psychic/README.md)
+- [M Three Sixty Five - Start Here (Challenge Group)](./miscellaneous/M-Three-Sixty-Five-Start-Here/README.md)
+  - [✅ M Three Sixty Five - General Info](./miscellaneous/M-Three-Sixty-Five-General-Info/README.md)
+  - [✅ M Three Sixty Five - Conditional Access](./miscellaneous/M-Three-Sixty-Five-Conditional-Access/README.md)
+  - [✅ M Three Sixty Five - Teams](./miscellaneous/M-Three-Sixty-Five-Teams/README.md)
+  - [✅ M Three Sixty Five - The President](./miscellaneous/M-Three-Sixty-Five-The-President/README.md)
 
 ## OSINT
 
@@ -38,7 +44,7 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 
 ## Steganography
 
-- [✅ Land-Before-Time](./steganography/Land-Before-Time/dinosaurs1.png)
+- [✅ Land-Before-Time](./steganography/Land-Before-Time/README.md)
 
 ## Warmups
 
