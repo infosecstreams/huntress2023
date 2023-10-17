@@ -4,7 +4,11 @@ These are writeups from the [OnlyFeet CTF Team](https://ctftime.org/team/144644)
 
 ## Writeups
 
-Legend: ✅ = Solved (and we may or may not have written the writeup.)
+Legend:
+
+- ✅ = Solved (and written the writeup)
+- ✔️ &nbsp;= Solved (and have not written the writeup)
+- ❌ = Unsolved (and likely no writeup)
 
 ## Forensics
 
@@ -28,7 +32,9 @@ Legend: ✅ = Solved (and we may or may not have written the writeup.)
 
 ## Miscellaneous
 
+- [✅ Babel](./miscellaneous/Babel/README.md)
 - [✅ I Won't Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
+- [✅ PRESS PLAY ON TAPE](./miscellaneous/PRESS-PLAY-ON-TAPE/README.md)
 - [✅ Rock Paper Psychic](./miscellaneous/Rock-Paper-Psychic/README.md)
 - [M Three Sixty Five - Start Here (Challenge Group)](./miscellaneous/M-Three-Sixty-Five-Start-Here/README.md)
   - [✅ M Three Sixty Five - General Info](./miscellaneous/M-Three-Sixty-Five-General-Info/README.md)
