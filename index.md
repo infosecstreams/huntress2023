@@ -16,6 +16,7 @@ Legend:
 - [✅ Dumpster Fire](./forensics/Dumpster-Fire/README.md)
 - [✅ Opposable Thumbs](./forensics/Opposable-Thumbs/README.md)
 - [✅ Rogue Inbox](./forensics/Rogue-Inbox/README.md)
+- [✅ Texas Chainsaw Massacre: Tokyo Drift](./forensics/Texas-Chainsaw-Massacre-Tokyo-Drift/README.md)
 - [✅ Traffic](./forensics/Traffic/README.md)
 - [✅ Tragedy Redux](./forensics/Tragedy-Redux/README.md)
 - [✅ Wimble](./forensics/Wimble/README.md)
@@ -34,6 +35,7 @@ Legend:
 
 - [✅ Babel](./miscellaneous/Babel/README.md)
 - [✅ I Won't Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
+- [✅ Indirect Payload](./miscellaneous/Indirect-Payload/README.md)
 - [✅ PRESS PLAY ON TAPE](./miscellaneous/PRESS-PLAY-ON-TAPE/README.md)
 - [✅ Rock Paper Psychic](./miscellaneous/Rock-Paper-Psychic/README.md)
 - [M Three Sixty Five - Start Here (Challenge Group)](./miscellaneous/M-Three-Sixty-Five-Start-Here/README.md)
