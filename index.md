@@ -28,6 +28,7 @@ Legend:
 - [✅ Opendir](./malware/Opendir/README.md)
 - [✅ PHP Stager](./malware/PHP-Stager/README.md)
 - [✅ Snake Eater](./malware/Snake-Eater/README.md)
+- [✅ Thumb Drive](./malware/Thumb-Drive/README.md)
 - [✅ VeeBeeEee](./malware/VeeBeeEee/README.md)
 - [✅ Zerion](./malware/Zerion/README.md)
 
@@ -43,6 +44,7 @@ Legend:
   - [✅ M Three Sixty Five - Conditional Access](./miscellaneous/M-Three-Sixty-Five-Conditional-Access/README.md)
   - [✅ M Three Sixty Five - Teams](./miscellaneous/M-Three-Sixty-Five-Teams/README.md)
   - [✅ M Three Sixty Five - The President](./miscellaneous/M-Three-Sixty-Five-The-President/README.md)
+- [✅ Who is Real](./miscellaneous/Who-is-Real/README.md)
 
 ## OSINT
 
