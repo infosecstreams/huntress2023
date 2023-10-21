@@ -27,6 +27,7 @@ Legend:
 - [✅ HumanTwo](./malware/HumanTwo/README.md)
 - [✅ Opendir](./malware/Opendir/README.md)
 - [✅ PHP Stager](./malware/PHP-Stager/README.md)
+- [✅ RAT](./malware/RAT/README.md)
 - [✅ Snake Eater](./malware/Snake-Eater/README.md)
 - [✅ Speakfriend](./malware/Speakfriend/README.md)
 - [✅ Thumb Drive](./malware/Thumb-Drive/README.md)
@@ -46,6 +47,7 @@ Legend:
   - [✅ M Three Sixty Five - Conditional Access](./miscellaneous/M-Three-Sixty-Five-Conditional-Access/README.md)
   - [✅ M Three Sixty Five - Teams](./miscellaneous/M-Three-Sixty-Five-Teams/README.md)
   - [✅ M Three Sixty Five - The President](./miscellaneous/M-Three-Sixty-Five-The-President/README.md)
+- [✅ Welcome to the Park](./miscellaneous/Welcome-to-the-Park/README.md)
 - [✅ Who is Real](./miscellaneous/Who-is-Real/README.md)
 
 ## OSINT
