@@ -22,7 +22,7 @@ This challenge involves reading through some activity logs from a MS365 tenant t
 
 ![A pattern in the logs](./pattern.png)
 
-Of the events containing Debra's account there are a large number of `New-InboxRule` events that appear disproportionately compared to many of the other events... And, wouldnt you know if, glancing at the objectId that one of the log lines references shows us a letter, `f`, that we might be interested in.... Do you see the rest of the flag in the pattern? Now just extract the flag and submit it.
+Of the events containing Debra's account there are a large number of `New-InboxRule` events that appear disproportionately compared to many of the other events... And, wouldn't you know if, glancing at the objectId that one of the log lines references shows us a letter, `f`, that we might be interested in.... Do you see the rest of the flag in the pattern? Now just extract the flag and submit it.
 
 ![Extract the flag](./flag.png)
 

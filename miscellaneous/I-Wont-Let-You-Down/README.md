@@ -10,7 +10,8 @@ Writeup by: [@goproslowyo](https://github.com/goproslowyo)
 
 Author: @proslasher
 
-OK Go take a look at this IP:   Connect here: http://155.138.162.158
+OK Go take a look at this IP:   Connect here: <http://155.138.162.158>
+
 \# DO NOT USE BURP SUITE, OR YOU WILL BE DISQUALIFIED.
 
 ## Writeup

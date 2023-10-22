@@ -14,7 +14,7 @@ Remember when Missouri got into hacking!?! You gotta be fast to catch this flag!
 
 ## Writeup
 
-Quick easy challege. Based on the MS F12 view-source fiasco.
+Quick easy challenge. Based on the Missouri F12 view-source fiasco.
 
 Load the page and view the source. Inspect the javascript and you'll see it link to another page `/capture_the_flag.html`. Visit that page and inspect the source code to get the flag.
 

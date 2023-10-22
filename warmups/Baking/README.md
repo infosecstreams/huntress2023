@@ -14,7 +14,7 @@ Do you know how to make cookies? How about HTTP flavored?  Press the `Start` but
 
 ## Writeup
 
-This was a fun quick challenege. We want to bake "magic cookies" and it gives us a 120 hour timer. We obviously don't want to wait that long. The app returns a base64 encoded cookie with the "cooking information". We'll modify it and send it back to the server:
+This was a fun quick challenge. We want to bake "magic cookies" and it gives us a 120 hour timer. We obviously don't want to wait that long. The app returns a base64 encoded cookie with the "cooking information". We'll modify it and send it back to the server:
 
 ```shell
 $ echo 'eyJyZWNpcGUiOiAiTWFnaWMgQ29va2llcyIsICJ0aW1lIjogIjEwLzExLzIwMjMsIDEzOjA3OjIxIn0=' | base64 -d

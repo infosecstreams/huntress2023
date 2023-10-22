@@ -14,13 +14,13 @@ We saw this odd technique in a previous malware sample, where it would uncover i
 
 ## Writeup
 
-When you visit the url the challenege gives you and click the button you are immediately redirected and then received a redirect loop error.
+When you visit the url the challenge gives you and click the button you are immediately redirected and then received a redirect loop error.
 
 I started by doing the same thing in the command line analyzing the output:
 
 ```shell
 $ curl --max-redirs 1000 -vL http://chal.ctf.games:31656/site/flag.php 2>&1 | tee out.log
-[..]
+[...]
 ```
 
 In the log I noticed a pattern on some results with a Content-Length of 0 and others with 32. Checking on the first 32 byte result showed me a response body of: `character 0 of the payload is f`.

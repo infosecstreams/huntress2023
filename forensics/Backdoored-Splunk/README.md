@@ -18,7 +18,7 @@ You've probably seen Splunk being used for good, but have you seen it used for e
 
 ## Writeup
 
-The challenege description says to start the service and connect to it by piece together stuff from the download. If you visit the challenge server URL you'll get an Access Denied error.
+The challenge description says to start the service and connect to it by piece together stuff from the download. If you visit the challenge server URL you'll get an Access Denied error.
 
 If you search for the server hostname, `chal.ctf.games`. you'll find something interesting:
 

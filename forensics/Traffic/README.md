@@ -34,7 +34,7 @@ $ ./rita html-report traffic
 [...]
 ```
 
-The challenege description hints that there was traffic to a `sketchy` site. :facepalm:
+The challenge description hints that there was traffic to a `sketchy` site. :facepalm:
 
 We can go through the RITA data using the tabs above and after a while you might spot something amiss.
 

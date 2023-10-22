@@ -18,11 +18,11 @@ Well would you listen to those notes, that must be some long phone number or som
 
 ## Writeup
 
-Used http://dialabc.com/sound/detect/index.html to get the key presses.
+Used <http://dialabc.com/sound/detect/index.html> to get the key presses.
 
 Got `13040004482820197714705083053746380382743933853520408575731743622366387462228661894777288573`
 
-Used https://www.mobilefish.com/services/big_number/big_number.php to convert from BigInt to Hex
+Used <https://www.mobilefish.com/services/big_number/big_number.php> to convert from BigInt to Hex
 
 `666C61677B36633733336566303962633466326134333133666636333038376532356436377D`
 
