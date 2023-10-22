@@ -29,6 +29,7 @@ Legend:
 - [✅ PHP Stager](./malware/PHP-Stager/README.md)
 - [✅ RAT](./malware/RAT/README.md)
 - [✅ Snake Eater](./malware/Snake-Eater/README.md)
+- [✅ Snake Oil](./malware/Snake-Oil/README.md)
 - [✅ Speakfriend](./malware/Speakfriend/README.md)
 - [✅ Thumb Drive](./malware/Thumb-Drive/README.md)
 - [✅ VeeBeeEee](./malware/VeeBeeEee/README.md)
