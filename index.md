@@ -12,6 +12,7 @@ Legend:
 
 ## Forensics
 
+- [✅ Bad Memory](./forensics/Bad-Memory/README.md)
 - [✅ Backdoored Splunk](./forensics/Backdoored-Splunk/README.md)
 - [✅ Dumpster Fire](./forensics/Dumpster-Fire/README.md)
 - [✅ Opposable Thumbs](./forensics/Opposable-Thumbs/README.md)
