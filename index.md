@@ -40,6 +40,7 @@ Legend:
 ## Miscellaneous
 
 - [✅ Babel](./miscellaneous/Babel/README.md)
+- [✅ Discord Snowflake Scramble](./miscellaneous/Discord-Snowflake-Scramble/README.md)
 - [✅ I Won't Let You Down](./miscellaneous/I-Wont-Let-You-Down/README.md)
 - [✅ Indirect Payload](./miscellaneous/Indirect-Payload/README.md)
 - [✅ Operation Eradication](./miscellaneous/Operation-Eradication/README.md)
