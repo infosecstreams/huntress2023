@@ -52,6 +52,7 @@ Legend:
   - [✅ M Three Sixty Five - Conditional Access](./miscellaneous/M-Three-Sixty-Five-Conditional-Access/README.md)
   - [✅ M Three Sixty Five - Teams](./miscellaneous/M-Three-Sixty-Five-Teams/README.md)
   - [✅ M Three Sixty Five - The President](./miscellaneous/M-Three-Sixty-Five-The-President/README.md)
+- [✅ MFAtigue](./miscellaneous/MFAtigue/README.md)
 - [✅ Welcome to the Park](./miscellaneous/Welcome-to-the-Park/README.md)
 - [✅ Who is Real](./miscellaneous/Who-is-Real/README.md)
 
