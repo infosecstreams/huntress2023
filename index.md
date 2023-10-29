@@ -26,6 +26,7 @@ Legend:
 
 - [✅ Batchfuscation](./malware/Batchfuscation/README.md)
 - [✅ BlackCat](./malware/BlackCat/README.md)
+- [✅ Crab Rave](./malware/Crab-Rave/README.md)
 - [✅ Hot Off The Press](./malware/Hot-Off-The-Press/README.md)
 - [✅ HumanTwo](./malware/HumanTwo/README.md)
 - [✅ Opendir](./malware/Opendir/README.md)
