@@ -2,6 +2,16 @@
 
 These are writeups from the [OnlyFeet CTF Team](https://ctftime.org/team/144644).
 
+## Certificate of Completion
+
+![Certificate](./certificate.png)
+
+According to the scoreboard at the end of the CTF there were at least `3410` teams with one solve. `41st` out of `3410` is in the top 1%. nice. (And if we just use the total number of teams that's written on the certificate it's under 1% :p. `(41 / 4123) * 100 =  0.99442153771`)
+
+`(41 / 3410) * 100 = 1.20234604106`
+
+![scoreboard](./scoreboard.png)
+
 ## Writeups
 
 Legend:
@@ -26,6 +36,7 @@ Legend:
 
 - [✅ Batchfuscation](./malware/Batchfuscation/README.md)
 - [✅ BlackCat](./malware/BlackCat/README.md)
+- [✅ BlackCat II](./malware/BlackCat-II/README.md)
 - [✅ Crab Rave](./malware/Crab-Rave/README.md)
 - [✅ Hot Off The Press](./malware/Hot-Off-The-Press/README.md)
 - [✅ HumanTwo](./malware/HumanTwo/README.md)

@@ -16,6 +16,7 @@ For this challenge, you can connect into a PowerShell Core instance. Note that t
 
 We can use the AADInternals function `Get-AADIntConditionalAccessPolicies` to get the desired information.
 
+{% raw %}
 ```powershell
 PS /home/user> Get-AADIntConditionalAccessPolicies
 
@@ -51,5 +52,6 @@ policyDetail        : {{"Version":0,"State":"Disabled"}}
 policyIdentifier    : 09/27/2023 15:37:04
 tenantDefaultPolicy : 18
 ```
+{% endraw %}
 
 `flag{d02fd5f79caa273ea535a526562fd5f7}`
